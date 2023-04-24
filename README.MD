@@ -3,8 +3,8 @@
 
 
 <h3 align="center">I am a FULL-STACK developer located in Buenos Aires. I have been passionate about exact sciences since I was a child. Commitment, organization, and problem-solving are some of the values that characterize me. I am interested in the entire web development process, starting from FRONT-END to BACK-END; with solid knowledge in HTML, CSS, SASS, React, NODE JS, among others. I am a human being who continues to learn.</h3>
-<h3 align="left">Contactame/Connect with me:</h3>
-<p align="left">
+<h3 align="left">Contacta conmigo/Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nahuel-zacarias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nahuel-zacarias/" height="30" width="40" /></a>
 </p>
 
